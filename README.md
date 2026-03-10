@@ -7,14 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/fuzionqt" target="blank"><img src="https://img.shields.io/twitter/follow/fuzionqt?logo=twitter&style=for-the-badge" alt="fuzionqt" /></a> </p>
 
-- 🔭 Started progress on **Purple.lua**
-
-- 🌱 I’m currently learning **more about Graphics and Scripting**
-
-- 💬 Ask me about **anything you'd like**
-
-- 📫 How to reach me **FUZION#0001**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/fuzionqt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fuzionqt" height="30" width="40" /></a>
